@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body {
+    background:linear-gradient(to left,#1111116f, #e9e8e81c), url("imagenbody.jpg");
+    width: 100%; 
+    height: 100%;   
+}
+
+.bgnav {
+    background-color: #585757e4;
+    padding: 3px;
+}
+
+footer {
+    background-color: #585757e4;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    text-align: center;
+    color: black;
+}
